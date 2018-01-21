@@ -1,0 +1,15 @@
+D:\Experimental\Accounting\TuiBase\bin\Release\TuiBase.dll.config
+D:\Experimental\Accounting\TuiBase\bin\Release\TuiBase.dll
+D:\Experimental\Accounting\TuiBase\bin\Release\TuiBase.pdb
+D:\Experimental\Accounting\TuiBase\obj\Release\ResolveAssemblyReference.cache
+D:\Experimental\Accounting\TuiBase\obj\Release\TuiBase.dll
+D:\Experimental\Accounting\TuiBase\obj\Release\TuiBase.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase\bin\Release\TuiBase.dll.config
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase\bin\Release\TuiBase.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase\bin\Release\TuiBase.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase\bin\Release\TuiBase.Console.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase\bin\Release\TuiBase.Console.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase\obj\Release\TuiBase.csprojResolveAssemblyReference.cache
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase\obj\Release\TuiBase.csproj.CoreCompileInputs.cache
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase\obj\Release\TuiBase.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase\obj\Release\TuiBase.pdb

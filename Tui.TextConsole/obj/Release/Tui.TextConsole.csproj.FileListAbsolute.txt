@@ -1,0 +1,8 @@
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\Tui.TextConsole\bin\Release\Tui.TextConsole.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\Tui.TextConsole\bin\Release\Tui.TextConsole.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\Tui.TextConsole\bin\Release\TuiBase.Console.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\Tui.TextConsole\bin\Release\TuiBase.Console.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\Tui.TextConsole\obj\Release\Tui.TextConsole.csprojResolveAssemblyReference.cache
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\Tui.TextConsole\obj\Release\Tui.TextConsole.csproj.CoreCompileInputs.cache
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\Tui.TextConsole\obj\Release\Tui.TextConsole.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\Tui.TextConsole\obj\Release\Tui.TextConsole.pdb

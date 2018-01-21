@@ -1,0 +1,5 @@
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase.Console\bin\Release\TuiBase.Console.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase.Console\bin\Release\TuiBase.Console.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase.Console\obj\Release\TuiBase.Console.csproj.CoreCompileInputs.cache
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase.Console\obj\Release\TuiBase.Console.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TuiBase.Console\obj\Release\TuiBase.Console.pdb

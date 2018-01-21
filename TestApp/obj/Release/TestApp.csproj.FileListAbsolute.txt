@@ -1,0 +1,14 @@
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\TestApp.exe.config
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\TestApp.exe
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\TestApp.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\Tui.TextConsole.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\TuiBase.Console.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\TuiBase.dll
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\Tui.TextConsole.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\TuiBase.Console.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\TuiBase.pdb
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\bin\Release\TuiBase.dll.config
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\obj\Release\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\obj\Release\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\obj\Release\TestApp.exe
+C:\Users\Chiri\OneDrive\Documents\TUI\TUI\TestApp\obj\Release\TestApp.pdb
